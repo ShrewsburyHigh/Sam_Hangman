@@ -1,2 +1,3 @@
 # Sam_Hangman
-check function 
+#check() function 
+herro , how u do 

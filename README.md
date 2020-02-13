@@ -1,3 +1,3 @@
 # Sam_Hangman
 #check() function 
-herro , how u do 
+#part a of the hangman program, check hangman.py to add
